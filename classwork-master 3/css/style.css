@@ -1,0 +1,420 @@
+ .logo a{
+    color: #5fcf80;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+.nav-links ul li a{
+    color: #37423b;
+    font-size: 15px;
+    font-weight: 500;
+    white-space: nowrap;
+    padding: 10px 0 10px 30px;
+}
+ 
+ .btn-primary {
+    color: #fff;
+    background-color:  #5fcf80;
+    border-color:  #5fcf80;
+    margin-left: 22px;
+    padding: 8px 25px;
+    font-size: 14px;
+    margin-bottom: 9px;
+   
+ }
+ .quote-pic{
+     width: 100%;
+     background-image: url("https://bootstrapmade.com/demo/templates/Mentor/assets/img/hero-bg.jpg ");
+     background-position: top center;
+     height: 80vh;
+     background-size: cover;
+     position: relative;
+ }
+   .quote{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 15px;
+    color: white;
+    margin-top: 20px;
+    padding: 180px;
+    
+   
+   
+  }
+  .quote-pic ::before{
+    content: "";
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+     .groupwork-pic img{
+        max-width: 100%;
+        height: auto;
+    
+     }
+     ul li i{
+         color:  #5fcf80;
+     }
+     .groupwork{
+         padding: 60px
+     }
+     .title{
+         padding: 20px
+     }
+     .sections{
+         background-color: #f7f6f7;
+         padding :10px;
+         margin: 10px
+     }
+     .students{
+         margin: 20px
+     }
+     .courses{
+         margin: 20px;
+     }
+     .events{
+        margin: 20px;
+     }
+     .trainers{
+        margin: 20px;
+     }
+     .row{
+        display: flex;
+        justify-content: space-around;
+        align-content: center;
+        flex-direction: row;
+        align-items: flex-end;
+     }
+     .why-mentor{
+         width: 356px;
+         background-color: #5fcf80;
+         color: white;
+         border-radius: 4px;
+         padding: 20px;
+       
+     }
+     .why-mentor-title{
+        width: 296px;
+        height: 81px;
+        margin-bottom: 20px;
+       
+     }
+     .learn-button{
+        width: 296px;
+        height: 38px;
+     }
+
+     .why-mentor p{
+         padding-top: 20px;
+         width: 296px;
+         margin-bottom: 30px;
+       }
+     .why-mentor button{
+         padding: 6px 30px 8px 30px;
+         display: flex;
+        justify-content: center;
+     }
+     .learn-button{
+        display: flex;
+        justify-content: center;
+     }
+     .block-1{
+         width: 268px;
+         height: 341px;
+         border: 1px solid rgb(184, 184, 184);
+         padding: 40px;
+         margin: 30px
+
+     }
+     .block-1 p{
+         color: #818181;
+         padding-top: 23px
+         
+     }
+     .block-1 .block-1-logo i{
+        color:  #5fcf80;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+     }
+     .block-1-logo{
+         width: 50px;
+         height: 50px;
+         background-color: #ecf9f0;
+         border-radius: 50%;
+        
+         
+     }
+     .block-2{
+        width: 268px;
+        height: 341px;
+        border: 1px solid rgb(184, 184, 184);
+        padding: 40px;
+        margin: 30px
+    
+     }
+     .block-2 p{
+        color: #818181;
+        padding-top: 23px
+        
+    }
+    .block-2 .block-2-logo i{
+       color:  #5fcf80;
+       height: 100%;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    .block-2-logo{
+        width: 50px;
+        height: 50px;
+        background-color: #ecf9f0;
+        border-radius: 50%;
+        
+    }
+    .block-3{
+        width: 268px;
+        height: 341px;
+        border: 1px solid rgb(184, 184, 184);
+        padding: 40px;
+        margin: 30px
+    
+     }
+     .block-3 p{
+        color: #818181;
+        padding-top: 23px;
+
+        
+    }
+    .block-3 .block-3-logo i{
+       color:  #5fcf80;
+       height: 100%;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    .block-3-logo{
+        width: 50px;
+        height: 50px;
+        background-color: #ecf9f0;
+        border-radius: 50%;
+        
+    }
+    .block-1-title{
+        text-align: center;
+    }
+   
+    .advantages-boxes-wLogo p{
+        width: 160px;
+        height: 90px;
+        
+    }
+    .features{
+        margin: 60px;
+
+    }
+    .col{
+        border: 1px solid black;
+        padding: 20px;
+        margin: 30px;
+       border: 1px solid #eef0ef;
+  
+   
+    }
+    .icon-box{
+        display: flex;
+        justify-content: space-evenly;
+     
+    
+    }
+    .icon-box h3{
+        font-size:20px
+      
+    }
+    .icon-box i{
+        padding: 5px;
+    }
+    .course-1{
+        width: 380px;
+        height: 470px;
+        border: 1px solid rgb(184, 184, 184);;
+        
+    }
+    .name-1{
+        width: 150px;
+        height: 30px;
+        background-color: #5fcf80;
+        color: white;
+     
+    }
+    .course-1-name-price{
+        margin: 10px;
+    }
+    .course-2{
+        width: 380px;
+        height: 470px;
+        border: 1px solid rgb(184, 184, 184);;
+    }
+    .course-3{
+        width: 380px;
+        height: 470px;
+        border: 1px solid rgb(184, 184, 184);;
+    }
+    .name-2{
+        width: 150px;
+        height: 30px;
+        background-color: #5fcf80;
+        color: white;
+    }
+    .name-3{
+        width: 150px;
+        height: 30px;
+        background-color: #5fcf80;
+        color: white;
+    }
+    .course-3-name-price{
+        margin: 10px;
+    }
+    .course-2-name-price{
+        margin: 10px;
+    }
+    .teacher-1 .icons{
+        padding-top: 20px;
+    }
+    .teacher-2 .icons{
+        padding-top: 20px;
+    }
+    .teacher-3 .icons{
+        padding-top: 20px;
+    }
+    .Walter-teacher{
+        width: 380px;
+        height: 594px;
+        border: 1px solid rgb(184, 184, 184);;
+        color: #aaaaaa;
+    }
+    .Sarah-teacher{
+        width: 380px;
+        height: 594px;
+        border: 1px solid rgb(184, 184, 184);;
+        color: #aaaaaa;
+    }
+    .William-teacher{
+        width: 380px;
+        height: 594px;
+        border: 1px solid rgb(184, 184, 184);;
+        color: #aaaaaa;
+    }
+    footer .top{
+        background-color: #f9faf9;
+
+    }
+    footer{
+        padding-top:  50px;
+    }
+    .copyright span{
+        color: #5fcf80;
+    }
+    .bottom .socials i{
+        padding: 5px;
+    }
+    .social{
+        width: 36px;
+        height: 36px;
+        background-color: #5fcf80;
+        border-radius: 50%;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin: 5px;
+        color: white;
+    }
+    .useful{
+     font-size: 16px;
+    color: #444444;
+    padding-bottom: 12px;
+
+}
+.services{
+    font-size: 16px;
+    color: #444444;
+
+  
+   
+}
+.contact{
+    color: #444444;
+
+}
+.newspaper{
+    color: #444444;
+    padding-bottom: 12px;
+}
+.services ul li{
+    font-size: 14px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+.useful ul li{
+    font-size: 14px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+   
+}
+.teachers .teacher{
+    border:1px solid #444444;
+}
+.prof-title{
+    color: #444444;
+}
+.teachers-info-all .socials :hover{
+  
+    color: #5fcf80;
+}
+.content-all{
+    padding: 5px;
+}
+.content-all img{
+    padding: 5px;
+}
+.subs-button button{
+    background-color: #5fcf80;
+}
+.courses{
+    padding:50px;
+}
+
+
+
+
+
+
+    
+   
+  
+  
+  
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+     
+
+ 
